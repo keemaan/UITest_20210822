@@ -80,6 +80,11 @@
         android:text="개인정보활용동의" />
 
 
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="100dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/netplus_logo1" />
 
     <Button
         android:layout_width="match_parent"
